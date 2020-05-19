@@ -1,0 +1,120 @@
+#navbar {
+    background-color: #e3f2fd;
+    border: 2px, solid, green;
+    color: green;
+}
+.nav-link {
+    color: green
+}
+.name {
+    color: green;
+    text-align: center;
+}
+body {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    background-image: url("");
+    
+}
+.details {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    color: #161212;
+}
+
+.details > p {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+}
+
+.details > h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 2em 0 1em 0;
+}
+/*skills section*/
+.skills {
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: #6e6d6d;
+    color: #cecbcb;
+}
+/*portfolio content*/
+.col-sm-7 {
+    
+}
+.card {
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 550px;
+
+}
+.card-body {
+    background-color: #6e6d6d;
+}
+
+/* bars starts here*/
+.w3-light-greey {
+    border-radius: 25px;
+    background-color:rgb(71, 65, 65);
+    height:24px;
+    width:100%;
+}
+.w3-green  {
+    border-radius: 25px;
+    background-color:rgb(28, 59, 28);
+    height:24px;
+    width:40%;
+}
+#myBar1 {
+    width: 45%;
+}
+#myBar2 {
+    width: 45%;
+}
+#myBar3 {
+    width: 25%;
+}
+#myBarL1 {
+    width: 75%;
+}
+#myBarL2 {
+    width: 90%;
+}
+#myBarL3 {
+    width: 90%;
+}
+
+/* Footer start here*/
+.media {
+    
+    color: green;
+    padding: 15px;
+    text-align: center;
+    background-color: #e3f2fd;
+  }
+  .fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect */
+  .fa:hover {
+    opacity: 0.3;
+  }
+    .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
